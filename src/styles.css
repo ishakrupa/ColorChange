@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color:blueviolet;
+}
+.square{
+  width: 200px;
+  height: 200px;
+  border:  2px solid black;
+  box-shadow: 2px 2px 5px black;
+  border-radius: 0.35rem ;
+  display: grid;
+  place-content: center;
+  
+}
+.square p{
+  text-align: center;
+}
